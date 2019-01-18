@@ -1,0 +1,104 @@
+body {
+  /* background-color: green; */
+  background-image:('images/forest.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: arial;
+  }
+
+.main-container {
+  margin: 20px auto;
+  background-color: #fe0000;
+  width: 650px;
+  height: 500px;
+  border-radius: 10px;
+  padding: 20px;
+  border-radius: 15px;
+  border: 7px solid black;
+
+}
+
+#pic {
+  width: 200px;
+  height: 200px;
+  background-color: #D3D3D3;
+  /* margin: 10px; */
+  border-radius: 5px;
+  border: 5px solid black;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.prevevo {
+  left: 750px;
+  bottom: 220px;
+  position: absolute;
+}
+
+#evo-name {
+  left: 750px;
+  bottom: 200px;
+  position: fixed;
+}
+
+#evo-pic {
+  left: 735px;
+  bottom: 55px;
+  width: 125px;
+  height: 125px;
+  background-color: #D3D3D3;
+  margin: 10px;
+  border-radius: 5px;
+  border: 5px solid black;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position: fixed;
+
+}
+
+input {
+  /* margin-left: 12px; */
+  width: 85px;
+  margin-left: 1px;
+  margin-top: 10px
+}
+
+.title{
+  font-weight: bold;
+  font-size: 24px;
+
+}
+
+#movelist {
+  left: 735px;
+  bottom: 275px;
+  width: 150px;
+  height: 150px;
+  background-color: #D3D3D3;
+  margin: 10px;
+  border-radius: 5px;
+  border: 5px solid black;
+  /* display:flex;
+  align-items:center;
+  justify-content:center; */
+  position: absolute;
+}
+
+ul{
+  margin-top: 20px;
+  padding: 15px;
+  list-style-type: none;
+}
+
+#moveTitle {
+  left: 750px;
+  bottom:450px;
+  position: absolute;
+
+}
+
+#name {
+  height: 5px;
+}
