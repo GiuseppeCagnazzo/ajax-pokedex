@@ -1,6 +1,8 @@
 # ajax-pokedex
 ajax-pokedex
 
+https://giuseppecagnazzo.github.io/ajax-pokedex/
+
 Praktische informatie
 Repository: ajax-pokedex
 Deadline: Discussed in group
